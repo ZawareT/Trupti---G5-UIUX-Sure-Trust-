@@ -232,7 +232,7 @@ Ahilya Nagar, Maharashtra.
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 <div align="center">
-<img src="https://www.linkedin.com/feed/update/urn:li:activity:7411052078028177408?utm_source=share&utm_medium=member_desktop&rcm=ACoAADevP-kB3EJ3A6yZ7I7zyqHkLg6K5gPdbPM" alt="Community Service Photo 1" width="30%">
+<img src="Sure Trust Community Service.png" alt="Community Service Photo 1" width="30%">
 
 </div>
 
